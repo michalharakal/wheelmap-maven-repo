@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.wheelmap.android</groupId>
+  <artifactId>googleanalytics</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120621211018</lastUpdated>
+  </versioning>
+</metadata>
